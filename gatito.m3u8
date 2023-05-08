@@ -2,7 +2,7 @@
 #EXTINF:-1,Animal Planet HD
 http://186.101.207.117:9955/play/a0cg/index.m3u8
 #EXTINF:-1,ATV+
-https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_0.m3u8
+http://atvmas.akamaized.net/hls/live/2101282/atvmas/level_0.m3u8
 #EXTINF:-1,AMC HD
 http://186.101.207.117:9955/play/a0ck/index.m3u8
 #EXTINF:-1,AXN HD
