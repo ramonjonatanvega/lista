@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,mario
-https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
+#EXTINF:-1,AE Mundo
+http://181.78.27.188:5350/play/a00y
 #EXTINF:-1,Animal Planet HD
 http://186.101.207.117:9955/play/a0cg/index.m3u8
 #EXTINF:-1,ATV+
